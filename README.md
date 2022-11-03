@@ -66,3 +66,24 @@
 **Status:** Open</br>
 
 ---------------------------------------------------------------------------------------------------------
+**Category:** Bug </br>
+**Priority:** low </br>
+**Severity:** minor </br>
+**Reproducibility:** sometimes </br>
+**Platform:** PC </br>
+**OS:** Windows 10 Pro </br> 
+**OS Version:** 21H2 </br>
+
+**Summary:** [Monitor]: not displaying accurate readings regarding phone battery meter. </br>
+**Description:** [Monitor] functionality - battery percentage displayed on the application does not coincide with the percentage displayed by the phone. App version 1.9.0 </br>
+**Steps to reproduce:** </br>
+1. Open the application on pc and phone
+2. Establish the connection between pc and phone 
+3. Go to "View"=>"Other"=>"Monitor"
+4. Compare the readings displayed by the application with readings from the phone
+
+
+**Actual result:** Desktop application is not displaying the same battery percentage as the phone </br>
+**Expected result:** Desktop application should display the same battery percentage as the phone </br>
+**Status:** Open</br>
+--------------------------------------------------------------------------------------------------------------------
