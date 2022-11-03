@@ -87,3 +87,24 @@
 **Status:** Open</br>
 
 --------------------------------------------------------------------------------------------------------------------
+**Category:** Bug </br>
+**Priority:** low </br>
+**Severity:** minor </br>
+**Reproducibility:** always </br>
+**Platform:** PC </br>
+**OS:** Windows 10 Pro </br> 
+**OS Version:** 21H2 </br>
+
+**Summary:** [Memory status]: does not provide acurate data regarding phone internal storage. </br>
+**Description:** [Memory status] functionality is displaying lower values of "Used","Free" and "Total" storage. App version 1.9.0 </br>
+**Steps to reproduce:** </br>
+1. Open the application on pc and phone
+2. Establish the connection between pc and phone 
+3. Go to "View"=>"Other"=>"Memory status"
+4. Compare the values displayed by the application with the values from the phone
+
+**Actual result:** Values displayed by Memory status differ from values displayed by the phone </br>
+**Expected result:** Values displayed by Memory status should coincide with values displayed by the phone </br>
+**Status:** Open</br>
+
+--------------------------------------------------------------------------------------------------------------------
