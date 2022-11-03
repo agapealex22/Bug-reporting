@@ -19,4 +19,4 @@
 4. Select the (*.mpb) file corresponding for File backup 
 
 **Actual result:** No file with (*.mpb) extension is present </br>
-**Expected result:** User should be able to select the (*.mpb) corresponding to applications backup and initialize the restore 
+**Expected result:** User should be able to select the (.mpb) file corresponding to applications backup and initialize the restore 
