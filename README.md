@@ -10,7 +10,7 @@
 **OS:** Windows 10 Pro </br> 
 **OS Version:** 21H2 </br>
 
-**Summary:** Restore backup functionality: Applications cannot be restored  </br>
+**Summary:** [Restore backup]: Applications cannot be restored  </br>
 **Description:** There is no MyPhoneExplorer backup file with (*.mbp) extension to be selected, corresponding to the applications backup. App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
@@ -31,7 +31,7 @@
 **OS:** Windows 10 Pro </br> 
 **OS Version:** 21H2 </br>
 
-**Summary:** Restore backup functionality: Files cannot be restored  </br>
+**Summary:** [Restore backup]: Files cannot be restored  </br>
 **Description:**  There is no MyPhoneExplorer backup file with (.mpb) extension to be selected, corresponding to Files backup. App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
