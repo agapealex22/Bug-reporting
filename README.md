@@ -11,7 +11,7 @@
 **OS Version:** 21H2 </br>
 
 **Summary:** [Restore backup]: Applications cannot be restored  </br>
-**Description:** There is no MyPhoneExplorer backup file with (*.mbp) extension to be selected, corresponding to the applications backup. App version 1.9.0 </br>
+**Description:** There is no MyPhoneExplorer backup file with (*.mbp) extension to be selected, corresponding to the applications backup.</br> App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
 2. Establish the connection between pc and phone
@@ -32,7 +32,7 @@
 **OS Version:** 21H2 </br>
 
 **Summary:** [Restore backup]: Files cannot be restored  </br>
-**Description:**  There is no MyPhoneExplorer backup file with (.mpb) extension to be selected, corresponding to Files backup. App version 1.9.0 </br>
+**Description:**  There is no MyPhoneExplorer backup file with (.mpb) extension to be selected, corresponding to Files backup.</br> App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
 2. Establish the connection between pc and phone
@@ -53,7 +53,7 @@
 **OS Version:** 21H2 </br>
 
 **Summary:** [Control phone/screen mirroring]: does not work on wifi connection  </br>
-**Description:** Controlling the phone does not work with "Connect via" Wifi option. App version 1.9.0 </br>
+**Description:** Controlling the phone does not work with "Connect via" Wifi option.</br> App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
 2. Establish the connection between pc and phone using Wifi option
@@ -75,7 +75,7 @@
 **OS Version:** 21H2 </br>
 
 **Summary:** [Monitor]: not displaying accurate readings regarding phone battery meter. </br>
-**Description:** [Monitor] functionality - battery percentage displayed on the application does not coincide with the percentage displayed by the phone. App version 1.9.0 </br>
+**Description:** [Monitor] functionality - battery percentage displayed on the application does not coincide with the percentage displayed by the phone.</br> App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
 2. Establish the connection between pc and phone 
@@ -96,7 +96,7 @@
 **OS Version:** 21H2 </br>
 
 **Summary:** [Memory status]: does not provide acurate data regarding phone internal storage. </br>
-**Description:** [Memory status] functionality is displaying lower values of "Used","Free" and "Total" storage. App version 1.9.0 </br>
+**Description:** [Memory status] functionality is displaying lower values of "Used","Free" and "Total" storage.</br> App version 1.9.0 </br>
 **Steps to reproduce:** </br>
 1. Open the application on pc and phone
 2. Establish the connection between pc and phone 
