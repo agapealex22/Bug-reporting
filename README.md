@@ -85,4 +85,5 @@
 **Actual result:** Desktop application is not displaying the same battery percentage as the phone </br>
 **Expected result:** Desktop application should display the same battery percentage as the phone </br>
 **Status:** Open</br>
+
 --------------------------------------------------------------------------------------------------------------------
