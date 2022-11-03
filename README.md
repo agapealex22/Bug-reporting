@@ -44,4 +44,25 @@
 **Status:** Open</br>
 
 -----------------------------------------------------------------------------------------------
+**Category:** Improvement </br>
+**Priority:** low </br>
+**Severity:** minor </br>
+**Reproducibility:** always </br>
+**Platform:** PC </br>
+**OS:** Windows 10 Pro </br> 
+**OS Version:** 21H2 </br>
 
+**Summary:** [Control phone/screen mirroring]: does not work on wifi connection  </br>
+**Description:** Controlling the phone does not work with "Connect via" Wifi option. App version 1.9.0 </br>
+**Steps to reproduce:** </br>
+1. Open the application on pc and phone
+2. Establish the connection between pc and phone using Wifi option
+3. Go to "Extras"=>"Control phone/Screen mirroring"
+4. Give access from the phone by pressing "START NOW"
+5. Try to use the phone from the desktop application
+
+**Actual result:** A message appears informing the user that controlling the phone is only possible via USB cable connection. </br>
+**Expected result:** User should be able to control the phone </br>
+**Status:** Open</br>
+
+---------------------------------------------------------------------------------------------------------
