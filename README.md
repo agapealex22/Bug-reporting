@@ -82,7 +82,6 @@
 3. Go to "View"=>"Other"=>"Monitor"
 4. Compare the readings displayed by the application with readings from the phone
 
-
 **Actual result:** Desktop application is not displaying the same battery percentage as the phone </br>
 **Expected result:** Desktop application should display the same battery percentage as the phone </br>
 **Status:** Open</br>
